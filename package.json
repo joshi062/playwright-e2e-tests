@@ -1,0 +1,19 @@
+{
+  "name": "playwright-e2e-tests",
+  "version": "1.0.0",
+  "description": "Playwright E2E Test with AI Capabilities including MCP",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Playwright",
+    "Playwright",
+    "E2E",
+    "MCP"
+  ],
+  "author": "Mahesh Joshi",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
